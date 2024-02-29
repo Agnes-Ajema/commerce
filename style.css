@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(243, 209, 220);
+    margin: 70px;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+}
+#second{
+  margin-left: 90%; 
+ 
+}
+.fourth{
+    display: flex;
+    justify-content: auto;
+}
+#button{
+    background-color: blue;
+    color: white;
+    padding: 10px 10px;
+    
+}
+.Top{
+    color: red;
+}
+.seven{
+    display: flex;
+    justify-content: space-between;
+}
+.place{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 50px;
+    padding: 20px 30px;
+
+}
+.middle{
+    display: flex;
+    justify-content: space-between;
+}
+#game{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.jungle{
+    background-color: rgb(243, 209, 220);
+}
+.track{
+    display: flex;
+    justify-content: space-between;
+}
+.agnes{
+  justify-content: space-between; 
+  
+    
+    
+}
+.previous{
+    display: flex;
+    justify-content:space-between;
+
+}
+.ajema{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+#shop{
+    justify-content: space-evenly;
+
+}
+.even{
+    justify-content: right;
+}
+.door{
+    margin-left: 0;
+    padding-left: 0;
+}
+.join{
+margin-right: 80%;
+}
+.junk{
+display: flex;
+justify-content: space-evenly;
+}
+
+
